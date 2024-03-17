@@ -1,0 +1,14 @@
+Station_id,Date_from,Date_to,Altitude,Latitude,Longitude,Station_name,State
+555,1925-01-01,2023-12-31,110,51.5026,7.2289,Bochum,Nordrhein-Westfalen
+1078,1940-01-01,2023-12-31,37,51.296,6.7686,Düsseldorf,Nordrhein-Westfalen
+1300,1931-01-01,2023-12-31,351,51.254,8.1565,Eslohe,Nordrhein-Westfalen
+1303,1888-01-01,2023-12-31,150,51.4041,6.9677,Essen-Bredeney,Nordrhein-Westfalen
+1327,1937-01-01,2023-12-31,147,50.7119,6.7905,Weilerswist-Lommersum,Nordrhein-Westfalen
+1590,1937-01-01,2023-12-31,37,51.4942,6.2463,Geldern-Walbeck,Nordrhein-Westfalen
+2110,1938-01-01,2023-12-31,57,51.0411,6.1042,Heinsberg-Schleiden,Nordrhein-Westfalen
+2483,1926-11-01,2023-12-31,839,51.1803,8.4891,Kahler Asten,Nordrhein-Westfalen
+2497,1937-01-01,2023-12-31,505,50.5014,6.5264,Kall-Sistig,Nordrhein-Westfalen
+2629,1851-01-01,2023-12-31,46,51.7612,6.0954,Kleve,Nordrhein-Westfalen
+2968,1903-01-01,2023-12-31,43,50.9894,6.9777,Köln-Stammheim,Nordrhein-Westfalen
+4371,1931-01-01,2023-12-31,135,52.1042,8.7521,"Salzuflen, Bad",Nordrhein-Westfalen
+5717,1907-01-01,2023-12-31,134,51.2256,7.1052,Wuppertal-Buchenhofen,Nordrhein-Westfalen
